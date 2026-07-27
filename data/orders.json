@@ -1,0 +1,88 @@
+[
+    {
+        "id": "ORD-1001",
+        "customer": "Aakash M",
+        "product_id": "P003",
+        "product_name": "MacBook Pro 14-inch M3 Pro",
+        "quantity": 1,
+        "amount": 198900,
+        "status": "delivered",
+        "date": "2024-07-15",
+        "delivery_date": "2024-07-20",
+        "payment": "credit_card"
+    },
+    {
+        "id": "ORD-1002",
+        "customer": "Aakash M",
+        "product_id": "P005",
+        "product_name": "Sony WH-1000XM5 Headphones",
+        "quantity": 1,
+        "amount": 29990,
+        "status": "shipped",
+        "date": "2024-07-24",
+        "delivery_date": "2024-07-28",
+        "payment": "upi",
+        "tracking": "FX-9823741"
+    },
+    {
+        "id": "ORD-1003",
+        "customer": "Aakash M",
+        "product_id": "P010",
+        "product_name": "Nike Air Max 270 React",
+        "quantity": 2,
+        "amount": 25990,
+        "status": "processing",
+        "date": "2024-07-26",
+        "delivery_date": "2024-07-31",
+        "payment": "credit_card"
+    },
+    {
+        "id": "ORD-1004",
+        "customer": "Priya S",
+        "product_id": "P001",
+        "product_name": "iPhone 15 Pro Max 256GB",
+        "quantity": 1,
+        "amount": 134900,
+        "status": "cancelled",
+        "date": "2024-07-10",
+        "refund_status": "refunded",
+        "refund_amount": 134900
+    },
+    {
+        "id": "ORD-1005",
+        "customer": "Rahul K",
+        "product_id": "P013",
+        "product_name": "PlayStation 5 Disc Edition",
+        "quantity": 1,
+        "amount": 54990,
+        "status": "delivered",
+        "date": "2024-07-01",
+        "delivery_date": "2024-07-05",
+        "return_eligible": false,
+        "return_reason": "30-day window expired"
+    },
+    {
+        "id": "ORD-1006",
+        "customer": "Meera V",
+        "product_id": "P007",
+        "product_name": "iPad Pro 12.9\" M2",
+        "quantity": 1,
+        "amount": 109900,
+        "status": "delivered",
+        "date": "2024-07-20",
+        "delivery_date": "2024-07-23",
+        "return_eligible": true
+    },
+    {
+        "id": "ORD-1007",
+        "customer": "Aakash M",
+        "product_id": "P006",
+        "product_name": "Apple AirPods Pro 2nd Gen",
+        "quantity": 1,
+        "amount": 24900,
+        "status": "delivered",
+        "date": "2024-07-18",
+        "delivery_date": "2024-07-21",
+        "return_eligible": true
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "id": "P001",
+        "name": "iPhone 15 Pro Max 256GB",
+        "category": "smartphones",
+        "brand": "Apple",
+        "price": 134900,
+        "rating": 4.8,
+        "stock": 45,
+        "description": "Titanium design, 48MP camera, A17 Pro chip, 5x optical zoom"
+    },
+    {
+        "id": "P002",
+        "name": "Samsung Galaxy S24 Ultra 512GB",
+        "category": "smartphones",
+        "brand": "Samsung",
+        "price": 124999,
+        "rating": 4.7,
+        "stock": 32,
+        "description": "200MP camera, S Pen, 6.8\" display, Snapdragon 8 Gen 3"
+    },
+    {
+        "id": "P003",
+        "name": "MacBook Pro 14-inch M3 Pro",
+        "category": "laptops",
+        "brand": "Apple",
+        "price": 198900,
+        "rating": 4.9,
+        "stock": 18,
+        "description": "M3 Pro chip, 18GB RAM, 512GB SSD, 18hr battery, Liquid Retina XDR"
+    },
+    {
+        "id": "P004",
+        "name": "Dell XPS 15 Core i9 RTX 4060",
+        "category": "laptops",
+        "brand": "Dell",
+        "price": 159990,
+        "rating": 4.6,
+        "stock": 12,
+        "description": "Intel i9-13900H, 32GB DDR5, 1TB SSD, 15.6\" OLED, RTX 4060 8GB"
+    },
+    {
+        "id": "P005",
+        "name": "Sony WH-1000XM5 Wireless Headphones",
+        "category": "audio",
+        "brand": "Sony",
+        "price": 29990,
+        "rating": 4.8,
+        "stock": 67,
+        "description": "Industry-leading ANC, 30hr battery, multipoint connection, speak-to-chat"
+    },
+    {
+        "id": "P006",
+        "name": "Apple AirPods Pro 2nd Gen",
+        "category": "audio",
+        "brand": "Apple",
+        "price": 24900,
+        "rating": 4.7,
+        "stock": 89,
+        "description": "Adaptive Transparency, H2 chip, 6hr + 30hr case battery, MagSafe"
+    },
+    {
+        "id": "P007",
+        "name": "iPad Pro 12.9\" M2 Wi-Fi 256GB",
+        "category": "tablets",
+        "brand": "Apple",
+        "price": 109900,
+        "rating": 4.8,
+        "stock": 24,
+        "description": "M2 chip, Liquid Retina XDR, Apple Pencil 2 support, 10hr battery"
+    },
+    {
+        "id": "P008",
+        "name": "Samsung 65\" QLED 4K Smart TV",
+        "category": "televisions",
+        "brand": "Samsung",
+        "price": 89990,
+        "rating": 4.6,
+        "stock": 8,
+        "description": "Quantum Dot, 120Hz, Tizen OS, Alexa built-in, HDMI 2.1"
+    },
+    {
+        "id": "P009",
+        "name": "Dyson V15 Detect Absolute",
+        "category": "home_appliances",
+        "brand": "Dyson",
+        "price": 62900,
+        "rating": 4.7,
+        "stock": 31,
+        "description": "Laser dust detection, 60min battery, HEPA filtration, LCD screen"
+    },
+    {
+        "id": "P010",
+        "name": "Nike Air Max 270 React",
+        "category": "footwear",
+        "brand": "Nike",
+        "price": 12995,
+        "rating": 4.5,
+        "stock": 142,
+        "description": "React foam sole, Air Max 270 unit, available sizes 6-12 UK"
+    },
+    {
+        "id": "P011",
+        "name": "Levi's 501 Original Fit Jeans",
+        "category": "clothing",
+        "brand": "Levis",
+        "price": 3999,
+        "rating": 4.4,
+        "stock": 215,
+        "description": "100% cotton, straight leg, button fly, available 28-38 waist"
+    },
+    {
+        "id": "P012",
+        "name": "Kindle Paperwhite 16GB",
+        "category": "e-readers",
+        "brand": "Amazon",
+        "price": 14999,
+        "rating": 4.6,
+        "stock": 53,
+        "description": "300 PPI display, waterproof, 10 weeks battery, adjustable warm light"
+    },
+    {
+        "id": "P013",
+        "name": "PlayStation 5 Disc Edition",
+        "category": "gaming",
+        "brand": "Sony",
+        "price": 54990,
+        "rating": 4.9,
+        "stock": 5,
+        "description": "Custom SSD, 4K gaming, DualSense controller, 825GB storage"
+    },
+    {
+        "id": "P014",
+        "name": "Bose QuietComfort 45",
+        "category": "audio",
+        "brand": "Bose",
+        "price": 27900,
+        "rating": 4.6,
+        "stock": 44,
+        "description": "QuietComfort ANC, 24hr battery, foldable, USB-C charging"
+    },
+    {
+        "id": "P015",
+        "name": "GoPro Hero 12 Black",
+        "category": "cameras",
+        "brand": "GoPro",
+        "price": 39500,
+        "rating": 4.5,
+        "stock": 29,
+        "description": "5.3K video, HyperSmooth 6.0, waterproof 10m, front display"
+    }
+]
