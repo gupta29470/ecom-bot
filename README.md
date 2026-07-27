@@ -6,7 +6,9 @@ An AI-powered e-commerce customer service bot — fine-tuned on real customer se
 
 ## Demo
 
-<!-- Add demo video/GIF here -->
+[![Watch Demo](https://img.youtube.com/vi/kWvB_ildq0A/maxresdefault.jpg)](https://youtu.be/kWvB_ildq0A)
+
+
 
 ---
 
