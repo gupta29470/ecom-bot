@@ -1,0 +1,43 @@
+indexing:
+  exclude:
+    - ".git/**"
+    - ".codewalk/**"
+    - ".venv/**"
+    - "venv/**"
+    - "env/**"
+    - "**/__pycache__/**"
+    - "**/*.pyc"
+    - "**/*.pyo"
+    - ".pytest_cache/**"
+    - ".mypy_cache/**"
+    - ".ruff_cache/**"
+    - "build/**"
+    - "dist/**"
+    - "**/*.egg-info/**"
+    - ".coverage"
+    - "coverage/**"
+    - "htmlcov/**"
+    - ".idea/**"
+    - ".vscode/**"
+    - ".DS_Store"
+    - "**/*.log"
+    - ".env"
+    - ".env.*"
+    - "*.mp4"
+    - "*.pt"
+    - "*.pth"
+    - "*.bin"
+    - "*.safetensors"
+
+  include: []
+
+docs_path: .
+
+language_overrides: {}
+
+tools:
+  static_analysis:
+    python: ["ruff", "check", "--output-format=json"]
+
+  test_command:
+    python: ["pytest"]
